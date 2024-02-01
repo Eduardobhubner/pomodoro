@@ -1,3 +1,5 @@
 export default function App() {
-  return <main></main>;
+  return <main>
+    <h1>POMODORO</h1>
+  </main>;
 }
